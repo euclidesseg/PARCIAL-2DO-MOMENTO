@@ -16,7 +16,7 @@ public class Principal {
         
        while(R.equalsIgnoreCase("SI")){
             
-            System.out.println("VIENBENIDO A LA BASE DE DATOS PERSONA, POR FAVOR ESCOJA UNA OPCION PARA LLENAR");
+            System.out.println("BIENVENIDO A LA BASE DE DATOS PERSONA, POR FAVOR ESCOJA UNA OPCION PARA LLENAR");
             System.out.println("\t\nTABLAS DE BASE DE DATOS");
             System.out.print("\t\n1: VIGILANTES ");
             System.out.print("\t\n2: LIMPIADORES");
